@@ -4,10 +4,8 @@ body {
 }
 
 .container {
-
 	background-color:#FFFFFF;
 }
-
 
 body h1 {
 	font-size:48px;
@@ -36,8 +34,6 @@ body hr {
     border-color:#714C24;
 
 } 
-
-
 
 /* Header Section */
 .topsection p, #footer p {
@@ -212,16 +208,6 @@ footer {
 #saying {
 	margin-top: 75px;
 	margin-bottom: 100px;
-}
-
-/* Mailchimp */
-
-  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:600px;}
-  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-
-#mce-email {
-	width:600px;
 }
 
 
