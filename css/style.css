@@ -1,0 +1,238 @@
+body {
+	color:#714C24;
+	background-color:#EBE9DF;
+}
+
+.container {
+
+	background-color:#FFFFFF;
+}
+
+
+body h1 {
+	font-size:48px;
+}
+
+body h2 {
+	font-size:24px;
+}
+
+body h3 {
+	font-size:20px;
+}
+
+body h4 {
+	font-size:14px;
+}
+
+body hr {
+	
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 2px;
+    border-color:#714C24;
+
+} 
+
+
+
+/* Header Section */
+.topsection p, #footer p {
+	font-size:20px;
+	font-weight:bold;
+}
+
+
+
+
+.center{
+	text-align:center;
+}
+
+.center-down {
+		text-align:center;
+		margin-top:60px;
+}
+
+.center-down2 {
+		text-align:center;
+		margin-top:30px;
+}
+
+#dinerpic {
+	width:100%;
+	border: 2px solid #714C24;
+}
+
+#dinerpic-border {
+
+	border: 3px solid #714C24;
+	padding: 15px 15px 15px 15px;
+}
+
+#dinerpic-border2 {
+
+	border: 2px solid #714C24;
+	padding: 3px 3px 3px 3px;
+}
+
+#menu2 ul {
+	float:left;
+	margin: 0px 15px;
+	list-style-type:none;
+}
+
+
+#map {
+    width: 75%;
+    height: 300px;
+    background-color: #CCC;
+  }
+
+  .btn {
+  	background-color:#FBF1BA;
+  	color:#714C24;
+  	border:1px solid #714C24;
+  }
+
+  .yellow {
+  	background-color:#FBF1BA;
+  }
+
+  .brown {
+  	background-color:#714C24;
+  }
+
+  .grey-dark {
+background-color:#EBE9DF;
+  }
+
+  .grey-light {
+  background-color:#000000;
+  }
+
+
+/* NAV Bar */
+
+#nav {
+	width: 100%;
+	float: left;
+	margin: 0 0 3em 0;
+	padding: 0;
+	list-style: none;
+	
+}
+#nav li {
+	float: left; }
+
+#nav li a {
+	display: block;
+	padding: 8px 15px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #714C24;
+	font-size:24px;
+	
+}
+#nav li a:hover {
+	color: #714C24;
+	background-color: #FBF1BA; }
+
+
+#menu, #newsletter{
+
+	margin-top:50px;
+	margin-bottom:50px;
+
+}
+.thr {
+	background-color:orange;
+}
+#menu h3, ul, li {
+	text-align:center;
+}
+
+#menu h1, h2{
+text-shadow: 2px 2px #FFFFFF;
+}
+
+.menudiv {
+		background-color:#FBF1BA;
+    -moz-box-shadow:    3px 3px 5px 6px #FBF1BA;
+  	-webkit-box-shadow: 3px 3px 5px 6px #FBF1BA;
+  	box-shadow:         5px 5px 5px 16px #FBF1BA;
+}
+
+.menudiv2 {
+	
+  	background-color:#FBF1BA;
+    -moz-box-shadow:    3px 3px 5px 6px #FBF1BA;
+  	-webkit-box-shadow: 3px 3px 5px 6px #FBF1BA;
+  	box-shadow:         5px 5px 5px 16px #FBF1BA;
+}
+/* Food */
+.foodcolor {
+
+  	background-color:#FBF1BA;
+    -moz-box-shadow:    3px 3px 5px 6px #FBF1BA;
+  	-webkit-box-shadow: 3px 3px 5px 6px #FBF1BA;
+  	box-shadow:         5px 5px 5px 16px #FBF1BA;
+}
+
+/* Footer */
+footer {
+	padding: 20px 0 20px 0;
+	margin-right:-10px;
+	margin-left:-10px;
+	background-color:#EBE9DF
+}
+
+.footerlogo {
+	width:50%;
+}
+
+ footer p {
+	font-size:14px;
+}
+
+.footer h4 {
+	font-size:10px;
+}
+
+.footer-border {
+	border-top: 2px solid #714C24;
+
+}
+
+/* About us Seciton */
+
+#saying {
+	margin-top: 75px;
+	margin-bottom: 100px;
+}
+
+/* Mailchimp */
+
+  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:600px;}
+  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+
+#mce-email {
+	width:600px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
